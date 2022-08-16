@@ -1,4 +1,5 @@
 # Customizable-Password-Generator
+#javascript #Html
 
 This is a feature that will give you more options to fine-tune your minimum characters, top characters, bottom characters, and numbers. The code is maximally simplified and easy to use. Also there is already a working button with the generation and simple animation of the appearance of the text. This function is fully operational and ready for testing and installation in your modules.
 
